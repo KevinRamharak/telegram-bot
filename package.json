@@ -1,0 +1,16 @@
+{
+  "name": "telegram-bot-v2",
+  "version": "2.0.0",
+  "description": "TelegramBot class written in typescript",
+  "main": "bin/main.js",
+  "scripts": {
+    "start": "node bin/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Ramharak",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^6.0.52",
+    "sleep": "^5.0.0"
+  }
+}

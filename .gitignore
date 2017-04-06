@@ -1,0 +1,6 @@
+node_modules
+.idea
+src/**/*.js
+bin/main.js
+config/*.js
+config/*.json
